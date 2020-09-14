@@ -1,5 +1,5 @@
 def selects_all_female_bears_return_name_and_age
-  "SELECT(gender) FROM bears WHERE gender = Female"
+  "SELECT(gender) FROM bears GROPUP BY gender = Female"
   return "SELECT(name, age) "
 end
 
